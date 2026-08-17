@@ -30,6 +30,9 @@ I continuously develop my analytical skills through hands-on projects involving 
 **Development & Workflow**
 `Git` `GitHub` `Jupyter Notebook`
 
+**Programming Language**
+`Python` `Javascript` `PHP` `HTML` `CSS`
+
 ---
 
 ## Skills
