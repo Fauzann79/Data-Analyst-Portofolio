@@ -19,13 +19,13 @@ I continuously develop my analytical skills through hands-on projects involving 
 ## Technical & Tools
 
 **Data Analysis**
-`SQL` `Python` `Pandas` `NumPy`
+`SQL` `Python` `Pandas` `Excel`
 
 **Data Visualization & BI**
 `Power BI` `Excel` `Matplotlib`
 
 **Database**
-`MySQL` `SQLite`
+`MySQL` `PostgreSQL`
 
 **Development & Workflow**
 `Git` `GitHub` `Jupyter Notebook`
