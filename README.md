@@ -75,7 +75,7 @@ Customer Behavior · Retention · Cohort Analysis · Segmentation
 **Tools:**
 `SQL` `Python` `Power BI`
 
-**Repo:** [github.com/Fauzann79/customer-churn-analysis](https://github.com/Fauzann79/customer-churn-analysis)
+**Repo:** https://github.com/Fauzann79/Customer-Churn-Analysis-Retention-Strategy-Reducing-Revenue-Leakage-in-Telecommunication
 
 ---
 
