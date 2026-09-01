@@ -91,15 +91,16 @@ Attendance · Academic Performance · Trend Analysis · KPI
 
 ---
 
-### Data Analyst Job Market Analysis
-
-Analyzing Data Analyst job postings to identify trends in required skills, tools, experience, and job demand.
+### Boston Marathon Performance Analysis
+End-to-end analysis of ~80K marathon runners (2015–2017) covering participation trends, pacing strategy, country-level performance, and returning-runner progression.
 
 **Focus:**
-Job Market · Skill Demand · Trend Analysis · Data Visualization
+Runner Performance · Pacing & Split Strategy · Demographic Analysis · Returning Runner Trends
 
 **Tools:**
-`Python` `SQL` `Power BI`
+`SQL` `Power BI` `Power Query` `DAX`
+
+**Repo:** [github.com/Fauzann79/marathon-performance-analysis](https://github.com/Fauzann79/marathon-performance-analysis)
 
 ---
 
