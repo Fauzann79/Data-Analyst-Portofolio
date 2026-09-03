@@ -100,7 +100,7 @@ Runner Performance · Pacing & Split Strategy · Demographic Analysis · Returni
 **Tools:**
 `SQL` `Power BI` `Power Query` `DAX`
 
-**Repo:** [github.com/Fauzann79/marathon-performance-analysis](https://github.com/Fauzann79/marathon-performance-analysis)
+**Repo:** [github.com/Fauzann79/marathon-performance-analysis](https://github.com/Fauzann79/boston-marathon-analysis-2015-2017)
 
 ---
 
