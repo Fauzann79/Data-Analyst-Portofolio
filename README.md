@@ -90,7 +90,7 @@ Production Analysis · Defect Rate Analysis · Machine Performance · Downtime A
 **Tools:**
 `SQL` `Tableau`
 
-**Repo:** [github.com/Fauzann79/marathon-performance-analysis](https://github.com/Fauzann79/boston-marathon-analysis-2015-2017)
+**Repo:** [https://github.com/Fauzann79/data-analytics-portfolio/tree/main/manufacturing-quality-analysis]
 
 ---
 
