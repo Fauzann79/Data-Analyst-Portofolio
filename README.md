@@ -81,6 +81,19 @@ Customer Behavior · Retention · Cohort Analysis · Segmentation
 
 ---
 
+### Manufacturing Quality Analysis
+Analyzing manufacturing production and quality data to identify defect patterns, evaluate machine performance, and uncover factors contributing to production inefficiencies.
+
+**Focus:**
+Production Analysis · Defect Rate Analysis · Machine Performance · Downtime Analysis · Shift Performance
+
+**Tools:**
+`SQL` `Tableau`
+
+**Repo:** [github.com/Fauzann79/marathon-performance-analysis](https://github.com/Fauzann79/boston-marathon-analysis-2015-2017)
+
+---
+
 ### School Operations Analytics
 
 Analyzing attendance and academic data to identify patterns and provide insights for better operational decision-making.
