@@ -67,6 +67,20 @@ Disaster Trends · Casualties Analysis · Infrastructure Damage · Regional Impa
 
 ---
 
+### Data Warehouse & ETL Project
+
+Building an end-to-end data warehouse to integrate, transform, and organize raw data into structured datasets for analytical and business intelligence purposes.
+
+**Focus:**
+Data Integration · ETL Pipeline · Data Modeling · Star Schema · Medallion Architecture · Data Transformation
+
+**Tools:**
+`Excel` `PostgreSQL` `DrawIo`
+
+**Repo:** [https://github.com/Fauzann79/Indonesia-Disaster-Impact-Analysis]
+
+---
+
 ### Customer Retention Analysis
 
 Analyzing customer purchasing behavior to understand retention, repeat purchases, and customer segments.
