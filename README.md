@@ -53,15 +53,17 @@ I continuously develop my analytical skills through hands-on projects involving 
 
 ## Projects
 
-### E-Commerce Sales Analysis
+### Indonesia Disaster Impact Analysis
 
-Analyzing sales performance to identify revenue trends, product performance, customer behavior, and potential business opportunities.
+Analyzing disaster data across Indonesia from 2020–2023 to identify trends, assess disaster impacts, and uncover patterns in casualties, fatalities, and infrastructure damage.
 
 **Focus:**
-Sales Trends · Customer Analysis · Product Performance · Revenue Analysis
+Disaster Trends · Casualties Analysis · Infrastructure Damage · Regional Impact Analysis
 
 **Tools:**
-`SQL` `Python` `Power BI`
+`SQL` `Excel` `Power BI`
+
+**Repo:** https://github.com/Fauzann79/Customer-Churn-Analysis-Retention-Strategy-Reducing-Revenue-Leakage-in-Telecommunication
 
 ---
 
@@ -73,7 +75,7 @@ Analyzing customer purchasing behavior to understand retention, repeat purchases
 Customer Behavior · Retention · Cohort Analysis · Segmentation
 
 **Tools:**
-`SQL` `Python` `Power BI`
+`SQL` `Excel` `Power BI`
 
 **Repo:** https://github.com/Fauzann79/Customer-Churn-Analysis-Retention-Strategy-Reducing-Revenue-Leakage-in-Telecommunication
 
@@ -87,7 +89,7 @@ Analyzing attendance and academic data to identify patterns and provide insights
 Attendance · Academic Performance · Trend Analysis · KPI
 
 **Tools:**
-`SQL` `Power BI`
+`SQL` `Power BI` `PHP` `Javascript` `Python` `HTML/CSS`   
 
 ---
 
