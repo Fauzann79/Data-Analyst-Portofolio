@@ -77,7 +77,7 @@ Data Integration · ETL Pipeline · Data Modeling · Star Schema · Medallion Ar
 **Tools:**
 `Excel` `PostgreSQL` `DrawIo`
 
-**Repo:** [https://github.com/Fauzann79/Indonesia-Disaster-Impact-Analysis]
+**Repo:** [https://github.com/Fauzann79/Data-Warehouse-Project]
 
 ---
 
