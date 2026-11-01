@@ -63,7 +63,7 @@ Disaster Trends · Casualties Analysis · Infrastructure Damage · Regional Impa
 **Tools:**
 `SQL` `Excel` `Power BI`
 
-**Repo:** https://github.com/Fauzann79/Customer-Churn-Analysis-Retention-Strategy-Reducing-Revenue-Leakage-in-Telecommunication
+**Repo:** [https://github.com/Fauzann79/Customer-Churn-Analysis-Retention-Strategy-Reducing-Revenue-Leakage-in-Telecommunication](https://github.com/Fauzann79/Indonesia-Disaster-Impact-Analysis)
 
 ---
 
