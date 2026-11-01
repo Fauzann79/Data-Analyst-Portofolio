@@ -135,6 +135,6 @@ Runner Performance · Pacing & Split Strategy · Demographic Analysis · Returni
 
 ## Contact
 
-* **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-* **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+* **GitHub:** [github.com/yourusername](https://github.com/Fauzann79)
+* **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/fauzan-rafli)
 * **Email:** [your.email@example.com](mailto:your.email@example.com)
